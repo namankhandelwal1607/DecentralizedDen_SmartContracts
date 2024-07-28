@@ -1,0 +1,9 @@
+# Node.js-specific
+node_modules/
+
+# Build artifacts
+artifacts/
+cache/
+
+# Environment-specific
+.env
